@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitioonal//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type"
+ Content="text/html; charset=ISO-8859-1">
+<title> Liga Femenina Brasileira de Futebol 2017-2018 Cronograma de Temporada Regular</title>
+<link rel="stylesheet" href="schedule.css" type="text/css">
+</head>
+<body>
+<h1>Liga Femenina Brasileira de Futebol</h1>
+<h2>2017-2018 Cronograma da Temporada Regular</h2>
+<table>
+   <thead>
+        <tr>
+
+            <th>Data</th>
+            <th>Time</th>
+            <th>Arena</th>
+            <th>Visitante</th>
+            <th>Home</th>
+            <th>Placar</th>
+       </tr>
+</thead>
+<tbody>
+<tr class="odd-row">
+<td>Jan. 7, 2017</td>
+<td>7:00 PM</td>
+<td>Puma</td>
+<td>Raposas</td>
+<td>Vixens</td>
+<td>3-7</td>
+</tr>
+
+
+<tr class="even-row">
+<td>Jan. 7, 2017</td>
+<td>9:00 PM</td>
+<td>Puma</td>
+<td>Floco de Neve</td>
+<td>Joaninhas</td>
+<td>5-2</td>
+</tr>
+
+<tr class="odd-row">
+<td>Jan. 8, 2017</td>
+<td>7:30 PM</td>
+<td>Maple Centro Esportivo</td>
+<td>Vixens</td>
+<td>Joaninhas</td>
+<td>3-5</td>
+</tr>
+<tr class="even-row">
+<td>Jan. 8, 2017</td>
+<td>9:30 PM</td>
+<td>Maple Centro Esportivo</td>
+<td>Floco de Neve</td>
+<td>Raposas</td>
+<td>0-4</td>
+</tr>
+<tr class="odd-row">
+<td>Jan. 14, 2017</td>
+<td>7:00 PM</td>
+<td>Puma</td>
+<td>Floco de Neve</td>
+<td>Vixens</td>
+<td>10-4</td>
+</tr>
+<tr class="even-row">
+<td>Jan. 21, 2017</td>
+<td>7:00 PM</td>
+<td>Puma</td>
+<td>Joaninha</td>
+<td>Raposas</td>
+<td>3-3</td>
+</tr>
+<tr class="odd-row">
+<td>Jan. 22, 2017</td>
+<td>7:30 PM</td>
+<td>Maple Centro Esportivo </td>
+<td>Floco de Neve</td>
+<td>Vixens</td>
+<td>2-6</td>
+</tr>
+
+</table>
+
+</body>
+</html>
